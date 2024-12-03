@@ -1,0 +1,54 @@
+/* styles.css or layout.css */
+.page-container {
+  max-width: 900px; /* Set max width for the page */
+  margin: 0 auto; /* Center the content horizontally */
+  padding: 0 40px; /* Increase padding on the sides (adjust as needed) */
+}
+
+.filters,
+.table-container,
+.other-component {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.filters label,
+.filters select,
+.table-container table {
+  font-size: 14px;
+}
+
+.filters select {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+th,
+td {
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+  color: #333;
+  font-weight: bold;
+}
+
+tr:hover {
+  background-color: #f9f9f9;
+}
+
+td {
+  background-color: #fff;
+  color: #555;
+}

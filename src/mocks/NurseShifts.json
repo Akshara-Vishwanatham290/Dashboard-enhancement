@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "Morning Shift",
+    "date": "2024-11-29",
+    "status": "open",
+    "nurses": [
+      { "id": 101, "name": "Alice" },
+      { "id": 102, "name": "Bob" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Evening Shift",
+    "date": "2024-11-30",
+    "status": "completed",
+    "nurses": [{ "id": 103, "name": "Charlie" }]
+  },
+  {
+    "id": 3,
+    "name": "Night Shift",
+    "date": "2024-12-01",
+    "status": "open",
+    "nurses": [{ "id": 101, "name": "Alice" }]
+  },
+  {
+    "id": 4,
+    "name": "Morning Shift",
+    "date": "2024-12-02",
+    "status": "open",
+    "nurses": [
+      { "id": 102, "name": "Bob" },
+      { "id": 104, "name": "David" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Evening Shift",
+    "date": "2024-12-03",
+    "status": "completed",
+    "nurses": [{ "id": 105, "name": "Eve" }]
+  },
+  {
+    "id": 6,
+    "name": "Night Shift",
+    "date": "2024-12-04",
+    "status": "open",
+    "nurses": [
+      { "id": 103, "name": "Charlie" },
+      { "id": 106, "name": "Frank" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Morning Shift",
+    "date": "2024-12-05",
+    "status": "open",
+    "nurses": [{ "id": 107, "name": "Grace" }]
+  },
+  {
+    "id": 8,
+    "name": "Evening Shift",
+    "date": "2024-12-06",
+    "status": "completed",
+    "nurses": [
+      { "id": 108, "name": "Hannah" },
+      { "id": 109, "name": "Isaac" }
+    ]
+  }
+]
